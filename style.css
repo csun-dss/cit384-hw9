@@ -1,0 +1,8 @@
+/* Simple card styling for the optional CSS extra credit. */
+* { box-sizing: border-box; }
+body { margin: 0; background: #f1f5f9; color: #1e293b; font-family: Arial, sans-serif; line-height: 1.6; }
+main { max-width: 820px; margin: 48px auto; padding: 0 20px; }
+h1 { color: #17365d; }
+section { background: white; border: 1px solid #dbe3eb; border-radius: 10px; padding: 18px 24px; margin: 20px 0; box-shadow: 0 2px 7px #0000000b; }
+h2 { margin-top: 0; color: #1d4e89; }
+#numberConversionOutput, #mathOutput { white-space: pre-line; overflow-wrap: anywhere; }
