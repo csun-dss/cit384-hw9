@@ -15,13 +15,11 @@ A single webpage demonstrating JavaScript built-in objects, number conversion, v
 
 ## Live GitHub Pages site
 
-
+https://csun-dss.github.io/cit384-hw9/
 
 ## Screenshot
 
-
-
-Save a screenshot of the running page as `screenshot.png` in this repository before submitting.
+[View Screenshot](./images/screenshot.png)
 
 ## Reflection 
 
