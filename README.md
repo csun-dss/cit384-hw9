@@ -19,7 +19,7 @@ https://csun-dss.github.io/cit384-hw9/
 
 ## Screenshot
 
-[View Screenshot](./images/screenshot.png)
+[View Screenshot](./images/Screenshot.png)
 
 ## Reflection 
 
